@@ -1,0 +1,44 @@
+#root {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.card {
+    padding: 2em;
+}
+
+.read-the-docs {
+    color: #888;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    margin: 24px auto;
+}
+
+header {
+    margin: 0px auto;
+    padding: 32px 0;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    /* background-color: teal; */
+}
+
+.empty-message {
+    font-size: 20px;
+    text-align: center;
+    color: #555;
+    margin-top: 20px;
+}
